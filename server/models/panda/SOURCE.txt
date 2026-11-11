@@ -1,0 +1,4 @@
+MuJoCo Menagerie / Franka Emika Panda
+https://github.com/google-deepmind/mujoco_menagerie/tree/98a70c569c4c1b6da467a20012f766ee1f8dc521/franka_emika_panda
+Commit: 98a70c569c4c1b6da467a20012f766ee1f8dc521
+License: Apache-2.0 (see LICENSE)
